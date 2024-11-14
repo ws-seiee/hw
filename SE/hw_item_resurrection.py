@@ -4,14 +4,14 @@ import sys
 import logging
 from datetime import datetime
 
-# 数据文件路径
+
 DATA_FILE = "items_data.json"
 LOG_FILE = "operation_log.txt"
 
 # 存储物品信息的字典
 items = {}
 
-# 设置日志配置
+# 设置日志
 logging.basicConfig(filename=LOG_FILE, level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 

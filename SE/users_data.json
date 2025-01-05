@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "address": "北京市海淀区",
+        "phone": "13900000000",
+        "email": "admin@example.com",
+        "password": "123123",
+        "role": "admin",
+        "approved": true
+    },
+    "gen": {
+        "address": "北京市朝阳区建国路88号",
+        "phone": "13800138000",
+        "email": "john.doe@example.com",
+        "password": "123123",
+        "role": "user",
+        "approved": true
+    }
+}
